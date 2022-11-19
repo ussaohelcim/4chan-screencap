@@ -11,4 +11,4 @@ Bookmarklet to create screen captures from thread replies.
 
 # Usage example
 
-Uploading 2022-11-19-19-43-24.mp4…
+https://user-images.githubusercontent.com/57050328/202874442-02f52b7d-7703-4445-8c60-aed8b7835293.mp4
